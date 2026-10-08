@@ -1,0 +1,10 @@
+==========================================================
+LOG DE AUDITORIA - NODO MPI RANK: 1
+NOMBRE DEL EQUIPO: Julio Angulo equipo 7
+HILOS OPENMP DISPONIBLES: 2
+==========================================================
+
+[PARALELO] Rango asignado: [0 - 30233087]
+[ÉXITO] [Equipo: WIN-AVI5NBOUPA5] [Nodo MPI: 1] [Hilo OpenMP: 0] [Clave Encontrada: "ABC12"] [Tiempo Parcial: 0.0336413s]
+[FIN] Finalizó la ejecución del nodo 1.
+Cierre formal de procesos MPI.

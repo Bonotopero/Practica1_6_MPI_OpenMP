@@ -1,0 +1,10 @@
+==========================================================
+LOG DE AUDITORIA - NODO MPI RANK: 0
+NOMBRE DEL EQUIPO: Julio Angulo equipo 7
+HILOS OPENMP DISPONIBLES: 8
+==========================================================
+
+[SECUENCIAL] Inicio de búsqueda secuencial sobre 60466176 combinaciones.
+[SECUENCIAL] ÉXITO: Clave "ABC12" hallada en 0.0015252s.
+[PARALELO] Clave hallada por Nodo 1 Hilo 0 en 0.0409956s.
+Cierre formal de procesos MPI.

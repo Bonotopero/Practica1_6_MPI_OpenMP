@@ -1,0 +1,10 @@
+==========================================================
+LOG DE AUDITORIA - NODO MPI RANK: 2
+NOMBRE DEL EQUIPO: Julio Angulo equipo 7
+HILOS OPENMP DISPONIBLES: 2
+==========================================================
+
+[PARALELO] Rango asignado: [30233088 - 60466175]
+[CANCELACIÓN] Orden de detención temprana recibida del Maestro.
+[FIN] Finalizó la ejecución del nodo 2.
+Cierre formal de procesos MPI.
